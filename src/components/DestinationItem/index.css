@@ -1,0 +1,17 @@
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: 20px;
+}
+.image {
+  width: 280px;
+}
+.placeName {
+  font-size: 15px;
+  font-family: 'Open Sans';
+  color: #252627;
+  font-weight: 600;
+}
